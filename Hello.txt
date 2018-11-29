@@ -1,1 +1,2 @@
 My first string in git repository.
+Second string in git repository!
